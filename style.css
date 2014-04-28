@@ -1,2 +1,53 @@
-/*create your custom styling here*/
+#container{
+	width:900px;
+	float:left;
+	margin: 0 auto;
+	border: 5px solid black;
+}
 
+#header{
+	width: 890px;
+	height:190px;
+	background-color: green;
+	border: 5px solid black;
+}
+
+.small-box{
+	width: 180px;
+	height: 180px;
+	background-color: yellow;
+	margin: 10px;
+	border-radius: 25px;
+}
+
+.long-box{
+	width:180px;
+	height:580px;
+	background-color: yellow;
+	margin: 10px;
+	border-radius: 25px;
+	float:left;
+}
+
+.sidebar{
+	background-color: blue;
+	width: 200px;
+	height:600px;
+	float:left;
+}
+
+#main-story{
+	background-color: orange;
+	width: 490px;
+	height: 590px;
+	float:left;
+	border: 5px solid black;
+}
+
+#footer{
+	width: 890px;
+	height:190px;
+	background-color: red;
+	float:left;
+	border: 5px solid black;
+}
